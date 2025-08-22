@@ -377,7 +377,7 @@
         <mxCell id="fNnzluJHqWMeSiac2GFV-147" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1303" y="3720" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="fNnzluJHqWMeSiac2GFV-148" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Captioner Generarting&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;service&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="fNnzluJHqWMeSiac2GFV-148" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Captioner Generarting&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;service&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="1256" y="3855" width="186" height="53" as="geometry" />
         </mxCell>
         <mxCell id="fNnzluJHqWMeSiac2GFV-150" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;curved=0;" edge="1" parent="1" source="fNnzluJHqWMeSiac2GFV-151" target="fNnzluJHqWMeSiac2GFV-132">
@@ -428,6 +428,12 @@
         </mxCell>
         <mxCell id="fNnzluJHqWMeSiac2GFV-165" value="Captioner 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1315" y="3646" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNnzluJHqWMeSiac2GFV-166" value="Data Base" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="682" y="3885" width="74" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fNnzluJHqWMeSiac2GFV-167" value="Data Base" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="107" y="911" width="74" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
