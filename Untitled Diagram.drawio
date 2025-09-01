@@ -611,22 +611,22 @@
           <mxGeometry x="558.5" y="3686.5" width="27" height="31" as="geometry" />
         </mxCell>
         <mxCell id="zmsfmL_2_zg-ytknMNfI-3" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="677.5" y="3571" width="27" height="31" as="geometry" />
+          <mxGeometry x="684" y="3494.75" width="27" height="31" as="geometry" />
         </mxCell>
         <mxCell id="zmsfmL_2_zg-ytknMNfI-4" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="857.5" y="3666" width="27" height="31" as="geometry" />
+          <mxGeometry x="865.5" y="3666" width="27" height="31" as="geometry" />
         </mxCell>
         <mxCell id="zmsfmL_2_zg-ytknMNfI-5" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1246.5" y="3530" width="27" height="31" as="geometry" />
         </mxCell>
         <mxCell id="zmsfmL_2_zg-ytknMNfI-6" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1057.5" y="3455" width="27" height="31" as="geometry" />
+          <mxGeometry x="1259" y="3468" width="27" height="31" as="geometry" />
         </mxCell>
         <mxCell id="zmsfmL_2_zg-ytknMNfI-7" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1024" y="3385" width="27" height="31" as="geometry" />
+          <mxGeometry x="823" y="3385" width="27" height="31" as="geometry" />
         </mxCell>
         <mxCell id="zmsfmL_2_zg-ytknMNfI-8" value="7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="934" y="3799" width="27" height="31" as="geometry" />
+          <mxGeometry x="810" y="3799" width="27" height="31" as="geometry" />
         </mxCell>
         <mxCell id="zmsfmL_2_zg-ytknMNfI-9" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="3726.5" width="27" height="31" as="geometry" />
@@ -654,6 +654,9 @@
               <mxPoint x="1351" y="3837" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zmsfmL_2_zg-ytknMNfI-20" value="Typical Flow Of VideoProcessing Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="921" y="3367" width="309" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
